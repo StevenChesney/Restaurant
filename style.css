@@ -1,0 +1,234 @@
+/* First Card */
+
+.fruit {
+    background-image: url(images/fruitLeftAd.jpg);
+    margin: -10px;
+    height: 1050px;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+}
+body {
+    margin: -10px;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+li {
+    justify-content: space-around;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+}
+form {
+    padding: 20px;
+    margin-top: -20px;
+}
+h1 {
+    padding: 100px 0 0 50px;
+    width: 700px;
+    font-size: 80px;
+}
+#formOne {
+    padding-left: 50px;
+}
+
+#formTwo {
+    padding-left: 50px;
+}
+.socials {
+    justify-content: flex-start;
+    padding-left: 0px;
+    padding-bottom: 125px;
+}
+.social {
+    padding-right: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+}
+.welcome {
+    padding-top: 50px;
+}
+
+/* Second Card */
+
+.secondCard {
+    background-image: url(images/background-2.jpg);
+    margin: -10px;
+    height: 1050px;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    margin-left: 0;
+}
+.about {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    size: 20px;
+    font-weight: bold;
+    margin-left: 40%;
+    margin-bottom: -5px;
+}
+.aboutPara {
+    width: 590px;
+    margin-left: 40%;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 25px;
+}
+h2 {
+    margin-left: 40%;
+    font-size: 60px;
+    width: 450px;
+}
+.discover {
+    padding-top: 100px;
+}
+.discoverMenu {
+    margin-left: 40%;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+
+/* Third Card */
+
+.online {
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    font-weight: bold;
+    font-size: 20px;   
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+h3 {
+    font-size: 65px;
+    text-align: center;
+    margin-top: 10px;
+}
+.foodTypes {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    padding-top: 5px;
+    border-bottom: 1px solid black;
+}
+.thirdCard {
+    justify-content: center;
+}
+.platesOfMeal {
+    height: 400px;
+    width: 270px;
+    object-fit: cover;
+    padding-right: 50px;
+}
+
+/* Fourth Card */
+
+.bookTable {
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+h4 {
+    margin-top: 10px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 60px;
+}
+.callNow {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    font-weight: 600;
+}
+.number {
+    color: orange;
+    font-size: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    margin-top: -10px;
+}
+.days {
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.monday {
+    justify-content: space-around;
+}
+.times {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+
+.books {
+    width: 800px;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+
+/* Fourth Card */
+
+.testimonial {
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+}
+h5 {
+    margin-top: 10px;
+    padding-top: 5px;
+    display: flex;
+    justify-content: center;
+    font-size: 70px;
+    margin-bottom: 50px;
+}
+.bobaFett {
+    width: 150px;
+    align-items: center;
+    display: flex;
+    margin: auto;
+}
+.title {
+    font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 1px;
+}
+.jobTitle {
+    font-family: Arial, Helvetica, sans-serif;
+    color: darkgrey;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.stars {
+    margin: auto;
+    display: flex;
+    margin-bottom: 15px;
+}
+.lorem {
+    width: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 20px;
+}
